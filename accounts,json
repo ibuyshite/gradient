@@ -1,0 +1,12 @@
+[
+    {
+      "user": "tk1@gmail.com",
+      "password": "pass1",
+      "proxy": "" 
+    },
+    {
+      "user": "tk2@gmail.com", 
+      "password": "pass2",
+      "proxy": ""
+    }
+  ]
